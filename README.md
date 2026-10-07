@@ -7,7 +7,7 @@
 
 ## 🛠️ Technical Toolkit
 
-* **Certifications:** Certified SOLIDWORKS Associate (CSWA) – Mechanical Design
+* **Certifications:** [![CSWA](https://img.shields.io/badge/SOLIDWORKS-CSWA%20Certified-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.credly.com/earner/earned/share/012c8448-4c9f-4bac-99e8-bf49d253b872) **Certified SOLIDWORKS Associate (CSWA) – Mechanical Design** • [Verify Credential](https://www.credly.com/earner/earned/share/012c8448-4c9f-4bac-99e8-bf49d253b872) 
 * **CAD & Modeling:** SolidWorks (Part Design, Assemblies, Kinematic Mates, Dimensioned Drawings)
 * **Computation & Analysis:** MATLAB, Numerical Methods, Microsoft Excel (Data Analysis, Engineering Calculations)
 * **Fabrication & Assembly:** Rapid Prototyping, Mechanical Fasteners, Tolerancing, Benchtop Assembly
@@ -50,4 +50,4 @@
 
 ## 📬 Connect
 
-* **Location:** Fayetteville, AR
+* **Location:** Fayetteville, Arkansas
