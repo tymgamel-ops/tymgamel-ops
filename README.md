@@ -7,6 +7,7 @@
 
 ## 🛠️ Technical Toolkit
 
+* **Certifications:** Certified SOLIDWORKS Associate (CSWA) – Mechanical Design
 * **CAD & Modeling:** SolidWorks (Part Design, Assemblies, Kinematic Mates, Dimensioned Drawings)
 * **Computation & Analysis:** MATLAB, Numerical Methods, Microsoft Excel (Data Analysis, Engineering Calculations)
 * **Fabrication & Assembly:** Rapid Prototyping, Mechanical Fasteners, Tolerancing, Benchtop Assembly
@@ -22,16 +23,28 @@
 * Built full component models and dynamic assemblies in **SolidWorks**, establishing gear reduction, wheel contact friction, and chassis balance.
 * Troubleshot mechanical clearances and balance during physical prototype testing, refining the drive interface for consistent linear travel.
 
+---
+
 ### 📐 Mechanical CAD Components & Assemblies
 * **Focus:** SolidWorks, Part Modeling, Design for Assembly
-* Created detailed parametric models and multi-body assemblies incorporating standard hardware, custom brackets, and moving linkages.
-* Generated engineering drawings with explicit dimensioning, section views, and fits to ensure precise part mating.
+* Modeled complex multi-body assemblies and parametric components adhering to CSWA modeling standards and manufacturing tolerances.
+* Produced engineering drawings and assembly layouts for functional validation.
+
+![CAD Assembly Screenshot](Screenshot%202026-10-07%20135604.png)
+
+* 📎 **Files in Repository:**
+  * [Download Part Model (eng cswa part 1.SLDPRT)](eng%20cswa%20part%201.SLDPRT)
+  * [View Drawing / Mill Assembly PDF](mill.pdf)
+
+---
 
 ### 📄 Mechanics of Materials & Thermal Expansion Analysis
 * **Focus:** Materials Science, Thermodynamics, Experimental Evaluation
-* Authored a technical analysis evaluating thermal expansion behavior and stress responses across thermoplastics versus metallic alloys.
-* Applied thermodynamic and mechanics principles to assess material deformation under varying thermal loads and environmental conditions.
-* Evaluated empirical stress-strain data against material yield and ultimate strength thresholds to determine structural suitability.
+* Authored a collaborative technical study investigating Linear Thermal Expansion (LTE) and dimensional stability in CNC manufacturing and high-speed tooling.
+* Evaluated atomic bonding, anharmonicity, and crystal lattice behavior (FCC, BCC, HCP) governing thermal vibration across metals, ceramics, and polymers.
+* Analyzed manufacturing implications including machining tolerances, tool distortion (HSS, carbide, CBN), and intentional shrink-fit assemblies.
+
+* 📄 **Read the Paper:** [View Full Technical Report (PDF)](Materials%20Term%20Paper%20-%20Linear%20Expansion%20on%20Materials.pdf)
 
 ---
 
