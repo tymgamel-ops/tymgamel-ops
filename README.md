@@ -38,12 +38,11 @@
 
 ---
 
-### 📄 Mechanics of Materials & Thermal Expansion Analysis
-* **Focus:** Materials Science, Thermodynamics, Experimental Evaluation
-* Authored a collaborative technical study investigating Linear Thermal Expansion (LTE) and dimensional stability in CNC manufacturing and high-speed tooling.
-* Evaluated atomic bonding, anharmonicity, and crystal lattice behavior (FCC, BCC, HCP) governing thermal vibration across metals, ceramics, and polymers.
-* Analyzed manufacturing implications including machining tolerances, tool distortion (HSS, carbide, CBN), and intentional shrink-fit assemblies.
-
+### 📄 Linear Thermal Expansion & Tolerance Analysis
+* **Focus:** Materials Science, Manufacturing Tolerances, Material Selection
+* Authored a technical study investigating Linear Thermal Expansion (LTE) mechanisms, interatomic bonding, and crystal structure effects on dimensional stability in CNC manufacturing.
+* Researched low-expansion alloys (Invar, Super-Invar) and evaluated engineering trade-offs between machinability and tight tolerance maintenance.
+* Evaluated heat treatment methods (quenching, tempering, annealing) for mitigating internal stress and controlling thermal distortion during machining cycles.
 * 📄 **Read the Paper:** [View Full Technical Report (PDF)](Materials%20Term%20Paper%20-%20Linear%20Expansion%20on%20Materials.pdf)
 
 ---
