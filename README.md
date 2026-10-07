@@ -7,9 +7,7 @@
 
 ## 🛠️ Technical Toolkit
 
-* **Certifications:** ![SOLIDWORKS CSWA](https://img.shields.io/badge/SOLIDWORKS-CSWA%20Certified-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white) **Mechanical Design**
-  <img width="150" height="150" alt="certified-solidworks-design-associate" src="https://github.com/user-attachments/assets/ed458558-3090-4e0c-a774-804ec2e86ca6" />
-
+* **Certifications:** <img src="https://github.com/user-attachments/assets/ed458558-3090-4e0c-a774-804ec2e86ca6" width="26" height="26" alt="CSWA" style="vertical-align: middle; margin-right: 6px;" /> **Certified SOLIDWORKS Associate (CSWA) – Mechanical Design**
 * **CAD & Modeling:** SolidWorks (Part Design, Assemblies, Kinematic Mates, Dimensioned Drawings)
 * **Computation & Analysis:** MATLAB, Numerical Methods, Microsoft Excel (Data Analysis, Engineering Calculations)
 * **Fabrication & Assembly:** Rapid Prototyping, Mechanical Fasteners, Tolerancing, Benchtop Assembly
