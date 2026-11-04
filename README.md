@@ -1,13 +1,13 @@
 # Tyler Gamel
 
-**Junior Mechanical Engineering Student | University of Arkansas**  
+**Junior Mechanical Engineering Student | University of Arkansas**
 *CAD & Assembly • Mechanical Design & Manufacturing • Thermal & Materials Analysis*
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠 Technical Toolkit
 
-* **Certifications:** <img src="https://github.com/user-attachments/assets/ed458558-3090-4e0c-a774-804ec2e86ca6" width="26" height="26" alt="CSWA" style="vertical-align: middle; margin-right: 6px;" /> **Certified SOLIDWORKS Associate (CSWA) – Mechanical Design**
+* **Certifications:** <img src="https://github.com/user-attachments/assets/ed458558-3090-4e0c-a774-804ec2e86ca6" width="26" height="26" alt="CSWA" style="vertical-align: middle; margin-right: 6px;" /> **Certified SOLIDWORKS Associate (CSWA) - Mechanical Design**
 * **CAD & Modeling:** SolidWorks (Part Design, Assemblies, Kinematic Mates, Dimensioned Drawings)
 * **Computation & Analysis:** MATLAB, Numerical Methods, Microsoft Excel (Data Analysis, Engineering Calculations)
 * **Fabrication & Assembly:** Rapid Prototyping, Mechanical Fasteners, Tolerancing, Benchtop Assembly
@@ -15,38 +15,32 @@
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🏗 Featured Engineering Projects
 
-### ⚙️ MDM Motorized Traverse Mechanism (Course Project)
+### ⚙️ [MDM Motorized Traverse Mechanism (Course Project)](https://github.com/tymgamel-ops/motorized-traverse-mechanism)
 * **Focus:** Mechanical Design & Manufacturing, Kinematics, Drivetrain Integration
-* Designed and assembled a motorized prototype engineered to traverse a horizontal rope span under defined load constraints.
-* Built full component models and dynamic assemblies in **SolidWorks**, establishing gear reduction, wheel contact friction, and chassis balance.
+* Designed and assembled a motorized prototype engineered to traverse a horizontal rope span under controlled velocity.
+* Integrated gear train reduction, motor mounting, and guide pulley systems while optimizing weight distribution, wheel contact friction, and chassis balance.
 * Troubleshot mechanical clearances and balance during physical prototype testing, refining the drive interface for consistent linear travel.
 
 ---
 
-### 📐 Mechanical CAD Components & Assemblies
+### 🛠 [Mechanical CAD Components & Assemblies](https://github.com/tymgamel-ops/mechanical-cad-components)
 * **Focus:** SolidWorks, Part Modeling, Design for Assembly
 * Modeled complex multi-body assemblies and parametric components adhering to CSWA modeling standards and manufacturing tolerances.
 * Produced engineering drawings and assembly layouts for functional validation.
 
-![CAD Assembly Screenshot](Screenshot%202026-10-07%20135604.png)
-[![New CAD Part Screenshot](Screenshot%202026-10-14%20102037.png)](https://github.com/tymgamel-ops/tymgamel-ops/blob/main/Screenshot%202026-10-14%20102037.png)
-* 📎 **Files in Repository:**
-  * [Download Part Model (eng cswa part 1.SLDPRT)](eng%20cswa%20part%201.SLDPRT)
-  * [View Drawing / Mill Assembly PDF](mill.pdf)
-
 ---
 
-### 📄 Linear Thermal Expansion & Tolerance Analysis
+### 🔬 Linear Thermal Expansion & Tolerance Analysis
 * **Focus:** Materials Science, Manufacturing Tolerances, Material Selection
 * Authored a technical study investigating Linear Thermal Expansion (LTE) mechanisms, interatomic bonding, and crystal structure effects on dimensional stability in CNC manufacturing.
-* Researched low-expansion alloys (Invar, Super-Invar) and evaluated engineering trade-offs between machinability and tight tolerance maintenance.
-* Evaluated heat treatment methods (quenching, tempering, annealing) for mitigating internal stress and controlling thermal distortion during machining cycles.
-* 📄 **Read the Paper:** [View Full Technical Report (PDF)](Materials%20Term%20Paper%20-%20Linear%20Expansion%20on%20Materials.pdf)
+* Researched low-expansion alloys (Invar, Super-Invar) and evaluated engineering trade-offs between precision retention and material machinability.
+* Formulated tolerance compensation guidelines for high-precision mechanical assemblies operating across thermal gradients.
+* **Documentation:** [Read Materials Term Paper (PDF)](Materials%20Term%20Paper%20-%20Linear%20Expansion%20on%20Materials.pdf)
 
 ---
 
-## 📬 Connect
-
-* **Location:** Fayetteville, Arkansas
+## 📬 Connect with Me
+* 💼 [LinkedIn](https://linkedin.com)
+* 📧 [Email](mailto:tylergamel@example.com)
