@@ -42,5 +42,5 @@
 ---
 
 ## 📬 Connect with Me
-* 💼 [LinkedIn](https://linkedin.com)
-* 📧 [Email](mailto:tylergamel@example.com)
+* 💼 [LinkedIn] www.linkedin.com/in/tyler-gamel-128028335
+* 📧 [Email] ty.m.gamel@gmail.com
