@@ -31,7 +31,7 @@
 * Produced engineering drawings and assembly layouts for functional validation.
 
 ![CAD Assembly Screenshot](Screenshot%202026-10-07%20135604.png)
-
+[![New CAD Part Screenshot](Screenshot%202026-10-14%20102037.png)](https://github.com/tymgamel-ops/tymgamel-ops/blob/main/Screenshot%202026-10-14%20102037.png)
 * 📎 **Files in Repository:**
   * [Download Part Model (eng cswa part 1.SLDPRT)](eng%20cswa%20part%201.SLDPRT)
   * [View Drawing / Mill Assembly PDF](mill.pdf)
