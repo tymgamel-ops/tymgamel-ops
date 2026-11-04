@@ -15,7 +15,7 @@
 
 ---
 
-## 🏗 Featured Engineering Projects
+## 🚀 Featured Engineering Projects
 
 ### ⚙️ [MDM Motorized Traverse Mechanism (Course Project)](https://github.com/tymgamel-ops/motorized-traverse-mechanism)
 * **Focus:** Mechanical Design & Manufacturing, Kinematics, Drivetrain Integration
@@ -25,22 +25,22 @@
 
 ---
 
-### 🛠 [Mechanical CAD Components & Assemblies](https://github.com/tymgamel-ops/mechanical-cad-components)
+### 📐 [Mechanical CAD Components & Assemblies](https://github.com/tymgamel-ops/mechanical-cad-components)
 * **Focus:** SolidWorks, Part Modeling, Design for Assembly
 * Modeled complex multi-body assemblies and parametric components adhering to CSWA modeling standards and manufacturing tolerances.
 * Produced engineering drawings and assembly layouts for functional validation.
 
 ---
 
-### 🔬 Linear Thermal Expansion & Tolerance Analysis
+### 🧪 Linear Thermal Expansion & Tolerance Analysis
 * **Focus:** Materials Science, Manufacturing Tolerances, Material Selection
 * Authored a technical study investigating Linear Thermal Expansion (LTE) mechanisms, interatomic bonding, and crystal structure effects on dimensional stability in CNC manufacturing.
 * Researched low-expansion alloys (Invar, Super-Invar) and evaluated engineering trade-offs between precision retention and material machinability.
 * Formulated tolerance compensation guidelines for high-precision mechanical assemblies operating across thermal gradients.
-* **Documentation:** [Read Materials Term Paper (PDF)](Materials%20Term%20Paper%20-%20Linear%20Expansion%20on%20Materials.pdf)
+* **Documentation:** [Read Materials Term Paper (PDF)](docs/Materials%20Term%20Paper%20-%20Linear%20Expansion%20on%20Materials.pdf)
 
 ---
 
-## 📬 Connect with Me
+## 📫 Connect with Me
 * 💼 [LinkedIn] www.linkedin.com/in/tyler-gamel-128028335
 * 📧 [Email] ty.m.gamel@gmail.com
